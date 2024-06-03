@@ -1,21 +1,23 @@
 
 import Header from "./components/header/Header";
-import ItemListContainer from "./components/ItemListContainer";
-
 import '../css/main.css'
+import 'bootstrap-icons/font/bootstrap-icons.css'
+import ItemListContainer from "./components/main/ItemListContainer";
+import ItemDetailContainer from "./components/main/itemlist/item/ItemDetailContainer";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 
 function App() {
- 
+  const numerito = ""
   return (
-  <>
-  <Header />
-  <ItemListContainer />
-  </>
+  <BrowserRouter>
+    <Header numerito={numerito} />
+    <Routes>
+      <Route path="/category/:categoryId" element={< ItemListContainer/>} />
+      <Route path="/item/:itemId" element={<ItemDetailContainer />}/>
+    </Routes>
+  </BrowserRouter>
   )
-}
-
-function MostrarUsurario({nombre, edad}){
-  return <h1>{nombre} {edad}</h1>;
 }
 
 export default App

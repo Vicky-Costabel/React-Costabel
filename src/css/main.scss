@@ -9,8 +9,10 @@
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    width: 100%;
+    height: 30vh;
     .logo{
-        display: block;
+        display: inline-flex;
         a{
             text-decoration: none;
             color: black;
@@ -20,37 +22,114 @@
         }
     }
     .nav-car{
-        width: 100vw;
+        width: 100%;
+        height: 200px;
         display: flex;
         position: relative;
+        border: 5px solid;
+        border-left: 0px;
+        border-right: 0px;
+        border-color: rgb(109, 109, 109);
+        background-color: rgba(0, 0, 0, 0.84);
         .navegacion{
             display: inline-flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             width: 100%;
-            .menu{
-                width: 50%;
+            text-align: center;
+            .marco{
                 display: inline-flex;
-                justify-content: space-evenly;
-                font-family: sans-serif;
-                li{
-                    list-style: none;
-                    display: inline;
-                    margin: 2%;
-                    a{
-                        color: black;
-                        text-decoration: none;
-                        font-size: 20px;
-                        padding: 10px;
+                justify-content: center;
+                height: 90%;
+                width: 50%;
+                border: 2px solid;
+
+                border-color:  rgb(0, 0, 0);
+                  .marco-seleccion{
+                    position: relative;
+                    top: 30px;
+                    width: 95%;
+                    height: 60%;
+                    background-color: #a7a7a7; 
+                    border: 3px solid #a27b48; 
+                    box-shadow: inset 0 0 20px #000;
+                    align-items: end;
+                    .indi-nav{
+                        width: 100%;
+                        height: 90%;
+                        display: inline-flex;
+                        justify-content: center;
+                        align-items:  center;
+                        font-size: 50px;
+                        color: rgb(240, 240, 240);
+                        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                        text-shadow: 
+                            1px 1px 0px black, 
+                            -1px -1px 0px black, 
+                            -1px 1px 0px black, 
+                            1px -1px 0px black, 
+                            1px 0px 0px black, 
+                            -1px 0px 0px black, 
+                            0px 1px 0px black, 
+                            0px -1px 0px black;
+                           
+                    }
+                    
+                }     
+            }
+            
+            .selecciones{
+                width: 300px;
+                position: absolute;
+                top: 100px;
+                
+                .menu{
+                    width: 100%;
+                    display: flex;
+                    justify-content: space-evenly;
+                    position: absolute;
+                    li{
+                        width: 50px;
+                        height: 50px;
+                        list-style: none;
+                        align-content: center;
+                        background-color: #a7a7a7; 
+                        border: 1px solid #b8b8b8; 
+                        box-shadow: inset 0 0 10px #000;
+                        border-radius: 100%;
+                        
+                        
+                            i{
+                                align-items: center;
+                                display: inline-flex;
+                                justify-content: center;
+                                
+                                font-size: 35px;
+                                color: #5f5f5f;
+                            }
+
+                        
+                        
                         &:hover{
-                            background-color: rgb(223, 223, 223);
-                            border-radius: 1rem;
+                            height: 60px;
+                            width: 60px;  
+                            border: 4px solid #b8b8b8; 
+                            box-shadow: inset 0px 0px 10px #fffbab;
+                            background-color: #9e9e12;
+                    
+                                i{
+                                    color: #dedede;
+                                }
                             
                         }
-
+                       
                     }
+                    
                 }
             }
+            
+            
         }
        .carrito{
         position: absolute;
@@ -59,7 +138,7 @@
         flex-direction: row;
         align-content: end;
             i{
-                font-size: 40px;
+                font-size: 30px;                
             }
             p{
                 font-size: 25px;
@@ -68,4 +147,94 @@
         }
     }
 }
+
+
+
+
+.main{
+    width: 100%;
+    height: 100%;
+    padding: 5%;
+    .productos{
+        width: 100%;
+        .item{
+            width: 100%;
+            .producto{
+                width: 90%;
+                display: inline-flex;
+                align-items: center;
+                margin-bottom: 5%; 
+                .marco-img-producto{
+                    position: absolute;
+                    margin-right: 2%;
+                    min-width: 150px;
+                    min-height: 150px;
+                    border-radius: 100%;
+                    background-color: #ECBD71;
+                    border: 7px solid #7d7d7d; 
+                    box-shadow: inset 0px 0px 30px #000;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    a{
+                        .img-producto{
+                            width: 100px;
+                        }
+                    }
+                    &:hover{
+                        background-color: #ffd899;
+                    }
+                }
+                .contenedor{
+                    background-color: rgb(35, 70, 0);
+                    width: 100%;
+                    border: 1px solid #000;
+                    box-shadow: 0 0 30px #5e5e5e;
+                    display: inline-flex;
+                    margin-left: 15px;
+                    border-radius: 20px;
+                    justify-content: end;
+                    .con-des-producto{
+                        max-width: 90%;
+                        display: inline-flex;
+                        .des-producto{
+                            width: 1000px;
+                            display: block;
+                            background-color: #a27b48;
+                            padding: 0 4% 0px;
+                            display: block;
+                            .nom-producto{
+                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                font-size: 150%;
+                                a{
+                                    text-decoration: none;
+                                    color: #000;
+
+                                }
+                            }
+                            .desc-producto{
+                                font-size: 100%;
+                                font-family: Arial, Helvetica, sans-serif;
+
+                            }
+                        }
+                        .precio{
+                            max-width: 21%;
+                            min-width: 20%;
+                            .pre-producto{
+                                display: flex;
+                                align-self: center;
+                                margin: 0 20px;
+                                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                                font-size: 500%;
+                            }
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
 

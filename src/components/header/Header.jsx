@@ -1,18 +1,20 @@
-import React from 'react'
+
 import NavBar from './navbar/NavBar'
 import Carrito from './navbar/Carrito'
+import { Link } from 'react-router-dom'
 
-const Header = () => {
+const Header = (props) => {
   return (
     <header className='header'>
       <div className='logo'>
-        <a href="#">
+        < Link to= {"/"}>
           <h1>Fink Manufactoring</h1>
-        </a>
+        </Link>
       </div>
+
       <div className='nav-car'>
-      <NavBar />
-      <Carrito />
+        <NavBar />
+        <Carrito numerito={props.numerito} />
       </div>
     </header>
   )

@@ -1,10 +1,10 @@
-import React from 'react'
 
-const Carrito = () => {
+const Carrito = (props) => {
+
   return (
     <div className='carrito'>
-      <i class="fa-solid fa-cart-shopping"></i>
-      <p>1</p>
+      <i className="bi bi-cart"></i>
+      <p>{props.numerito}</p>
     </div>
   )
 }

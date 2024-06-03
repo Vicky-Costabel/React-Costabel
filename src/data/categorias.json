@@ -1,0 +1,15 @@
+[
+    {
+        "id": "vigorizador",
+        "nombre": "vigorizador"
+
+    },
+    {
+        "id": "indumentaria",
+        "nombre": "ropa"
+    },
+    {
+        "id": "armas",
+        "nombre": "armamento"
+    }
+]
