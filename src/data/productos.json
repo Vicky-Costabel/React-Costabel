@@ -1,7 +1,7 @@
 
 [
     {
-        "id": "1",
+        "id": 1,
         "nombre": "Possession",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527786721340/posesion.png?ex=665cff5e&is=665badde&hm=cfe3007393b243d7514cd6125fa54212a2324374aa98bcbaeb095fd78897f59d&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545752210706432/botella-posesion.png?ex=66592460&is=6657d2e0&hm=e4fc9f1a3b80ff7cc9756029e4df75459069ac495bb9109298a2a61b0cfbd641&",
@@ -13,7 +13,7 @@
         }
     },
     {
-        "id": "2",
+        "id": 2,
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605525932838922/beso-del-diablo.png?ex=665cff5e&is=665badde&hm=904dae91fa5ff7e8e29afa4a17be8004db923df265a286c131e7b46eb61abefe&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545749920485427/botella-beso-del-diablo.png?ex=6659245f&is=6657d2df&hm=59b3a875ecdc823b1129e9f620b12c8bad740da9240d2265e631be926c7eba5c&",
         "nombre": "Devil's Kiss",
@@ -25,7 +25,7 @@
         }
     },
     {
-        "id": "3",
+        "id": 3,
         "nombre": "Murder of Crows",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526809317480/cuervos-asesinos.png?ex=665cff5e&is=665badde&hm=9a2773f29712a52afa88a1a97c553cd75b7b34f62188fe4a320838e305340630&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750922920036/botella-cuervos-asesinos.png?ex=66592460&is=6657d2e0&hm=cfab42741b938e8b7221fd67c61647eef1cb23bf54e09e1327b5ad82e9414cd3&",
@@ -37,7 +37,7 @@
         }
     },
     {
-        "id": "4",
+        "id": 4,
         "nombre": "Bucking Bronco",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526221983875/caballo-salvaje.png?ex=665cff5e&is=665badde&hm=e415ed75bdbbc82c6c90b12c5ffd3d8c66c9345f6a5cbc005865017700404176&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750281191504/botella-caballo-salbaje.png?ex=6659245f&is=6657d2df&hm=5198dc03fbb5f6596763f07c2e40919a031bed213b39f62c379fe238893463cc&",
@@ -49,7 +49,7 @@
         }
     },
     {
-        "id": "5",
+        "id": 5,
         "nombre": "Shock Jockey",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527497179197/jinete-electrico.png?ex=665cff5e&is=665badde&hm=b794cfa541b307eb3f9efebd73ca4e9e927b9204441a32a67222b74844e37c7d&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545751858380840/botella-jinete-electrico.png?ex=66592460&is=6657d2e0&hm=6949b69a19ab3ac3b3def089a391ec2cddd15ad75b36cd6384eee5e7e9edb510&",
@@ -61,7 +61,7 @@
         }
     },
     {
-        "id": "6",
+        "id": 6,
         "nombre": "Charge",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526507192460/carga.png?ex=665cff5e&is=665badde&hm=5e45cbca10dcb23593b524b73717cec2983b07f360be2b199f79be8f18405888&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750583316520/botella-carga.png?ex=66592460&is=6657d2e0&hm=28904d2ca4e7017b6d9b2f2f41572ad6279d4a170b9595d6ac97bdb646c752f4&",
@@ -73,7 +73,7 @@
         }
     },
     {
-        "id": "7",
+        "id": 7,
         "nombre": "Undertow",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528365400165/tiron-de-fondo.png?ex=665cff5e&is=665badde&hm=d1de38623b59ed6f62fb6054f18d9698bbe6a096e05652d73c77c759b161c4af&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545752613097482/botella-tiron-de-fondo.png?ex=66592460&is=6657d2e0&hm=61ae35a331dcdf85546a227b7274628c4fc6f5dc557ffd2967062a2d5b8c47b2&",
@@ -85,7 +85,7 @@
         }
     },
     {
-        "id": "8",
+        "id": 8,
         "nombre": "Return to Sender",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527207645224/devuelvase-al-remitente.png?ex=665cff5e&is=665badde&hm=1fcc30f5c15bd7be0f06b759ccbef140690717146f02cdf07c385aba2587e222&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545751371583508/botella-devuelvase-al-remitente.png?ex=66592460&is=6657d2e0&hm=f7e7a8e62584e40017b44efa4e0dcc24db628a599c81387ec1dc1f144b90620f&",
@@ -97,7 +97,7 @@
         }
     },
     {
-        "id": "9",
+        "id": 9,
         "nombre": "Sales: Small Bottle",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66592460&is=6657d2e0&hm=6312013c42cccc3c88a9d861d433109af5303532db8c5bd1a6ff22b401ce13fd&",
@@ -109,7 +109,7 @@
         }
     },
     {
-        "id": "10",
+        "id": 10,
         "nombre": "Sales: Medium Bottle",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66592460&is=6657d2e0&hm=6312013c42cccc3c88a9d861d433109af5303532db8c5bd1a6ff22b401ce13fd&",
@@ -121,7 +121,7 @@
         }
     },
     {
-        "id": "11",
+        "id": 11,
         "nombre": "Sales: Large Bottle",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
         "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66592460&is=6657d2e0&hm=6312013c42cccc3c88a9d861d433109af5303532db8c5bd1a6ff22b401ce13fd&",
@@ -134,7 +134,7 @@
         }
     },
     {
-        "id": "12",
+        "id": 12,
         "nombre": "Broadsider Pistol",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586597701877760/broadsider.png?ex=6659f32a&is=6658a1aa&hm=6018b44d493cf3a2547fe5d79bd23e125b90a8f9b7a1d524f0a737841bb66b7b&",
         "precio": 30,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "id": "13",
+        "id": 13,
         "nombre": "Machine Gun",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586599765606410/triple_r.png?ex=6659f32b&is=6658a1ab&hm=08661ce4c4d8c0f7928b431c6bbb833d659be64dd6610bad95f832ca4b3527be&",
         "precio": 70,
@@ -154,7 +154,7 @@
         }
     },
     {
-        "id": "14",
+        "id": 14,
         "nombre": "Arma de Fuego: Carbine",
         "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586599119425566/fusil-de-presicion.png?ex=6659f32b&is=6658a1ab&hm=f729a75c0d2b152c00cf9516feba898f8652ecb164b72ad507949c3779ea8514&",
         "precio": 75,
@@ -164,7 +164,7 @@
         }
     },
     {
-        "id": "15",
+        "id": 15,
         "nombre": "Shotgun",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586598507184229/china-broom.png?ex=6659f32a&is=6658a1aa&hm=8dee8d7e0d2f97263e22b4be82f9d9ce8f801e71b7f30fadbb3dee0c215e562c&",
         "precio": 55,
@@ -174,7 +174,7 @@
         }
     },
     {
-        "id": "16",
+        "id": 16,
         "nombre": "RPG",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245825993604857886/hail_fire.png?ex=665a295f&is=6658d7df&hm=cf225e06c768b56086c36858e7e838955f1bbfc094a8c567f24e746198aa1a22&",
         "precio": 90,
@@ -185,7 +185,7 @@
         }
     },
     {
-        "id": "17",
+        "id": 17,
         "nombre": "Hand Cannon",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586598066651166/canon-de-mano.png?ex=6659f32a&is=6658a1aa&hm=a84a2c9d6707ed0fad0950c39e09975fdb42a882a1277e92278ce7eb23c54f28&",
         "precio": 50,

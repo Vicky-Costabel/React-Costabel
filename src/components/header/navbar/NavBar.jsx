@@ -2,6 +2,9 @@ import { Link } from "react-router-dom";
 
 
 const NavBar = () => {
+
+
+
   const menuSeleccion = 'seleccion';
   return (
     <nav className="navegacion">
@@ -18,7 +21,7 @@ const NavBar = () => {
             </Link>
           </li>
           <li>
-            <Link to="/categpry/indumentaria">
+            <Link to="/category/indumentaria">
               <i class="bi bi-backpack"></i> {/* indumentaria */}
             </Link>
           </li>

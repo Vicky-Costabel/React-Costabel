@@ -1,20 +1,19 @@
-import React, { useEffect, useState } from 'react'
-import { pedirItemPorId } from '../../../../helpers/pedirDatos';
-import ItemDetail from './detail/ItemDetail';
+import React, { useState, useEffect } from 'react'
+import { useParams } from 'react-router-dom'
+import data from '../../../../data/productos.json'
 
-const ItemDetailContainer = ( {itemId} ) => {
-    const [item, setItem] = useState(null);
+const ItemDetailContainer = () => {
+    let {itemId} = useParams();
+
+    let [producto, setProducto] = useState(undefined);
+
     useEffect(() => {
-      pedirItemPorId(Number(itemId))
-      .then((res) => {
-        setItem(res);
-      })
+        setProducto(data.find((prod) => prod.id === parseInt(itemId)))
     }, [itemId])
     
-
   return (
     <div>
-        {item && < ItemDetail item={item} />}
+        {producto ? producto.nombre : "cargando..."}
     </div>
   )
 }
