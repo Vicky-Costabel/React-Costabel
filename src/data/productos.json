@@ -3,10 +3,11 @@
     {
         "id": 1,
         "nombre": "Possession",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527786721340/posesion.png?ex=665cff5e&is=665badde&hm=cfe3007393b243d7514cd6125fa54212a2324374aa98bcbaeb095fd78897f59d&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545752210706432/botella-posesion.png?ex=66592460&is=6657d2e0&hm=e4fc9f1a3b80ff7cc9756029e4df75459069ac495bb9109298a2a61b0cfbd641&",
-        "precio": 30,
-        "descripcion": "¡Toma el control de tus enemigos con Possession! Este increíble vigorizador te permite dominar máquinas y humanos por un corto periodo. Una solución perfecta para salir de apuros o abrir nuevas oportunidades. ¡No dejes que nadie te diga que no!",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527786721340/posesion.png?ex=665cff5e&is=665badde&hm=cfe3007393b243d7514cd6125fa54212a2324374aa98bcbaeb095fd78897f59d&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545752210706432/botella-posesion.png?ex=66684da0&is=6666fc20&hm=2aef7909454f4f9a5fbe76561d95688e189ebfb6f6737ab1353deea0a9786f38&",
+        "precio": 40,
+        "promocion": "¡Toma el control de tus enemigos con Possession! Este increíble vigorizador te permite dominar máquinas y humanos por un corto periodo. Una solución perfecta para salir de apuros o abrir nuevas oportunidades. ¡No dejes que nadie te diga que no!",
+        "descripcion": "El compuesto Possession contiene una mezcla de agentes neurotóxicos y alucinógenos que, al ser inhalados, inducen un estado de trance en el sujeto afectado. Esto permite al usuario del vigorizador tomar temporalmente el control de la víctima, inhibiendo su capacidad de tomar decisiones independientes y obligándola a obedecer comandos básicos. Los efectos son de corta duración y se revierten naturalmente cuando el compuesto es metabolizado.",
         "categoria":{
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -14,11 +15,12 @@
     },
     {
         "id": 2,
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605525932838922/beso-del-diablo.png?ex=665cff5e&is=665badde&hm=904dae91fa5ff7e8e29afa4a17be8004db923df265a286c131e7b46eb61abefe&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545749920485427/botella-beso-del-diablo.png?ex=6659245f&is=6657d2df&hm=59b3a875ecdc823b1129e9f620b12c8bad740da9240d2265e631be926c7eba5c&",
         "nombre": "Devil's Kiss",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605525932838922/beso-del-diablo.png?ex=665cff5e&is=665badde&hm=904dae91fa5ff7e8e29afa4a17be8004db923df265a286c131e7b46eb61abefe&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545749920485427/botella-beso-del-diablo.png?ex=66684d9f&is=6666fc1f&hm=dbfbd1a98f671595dc87aec2c0ba754d5ee1bc40ee903ca450c289733fa6d269&",
         "precio": 75,
-        "descripcion": "¡Desata el fuego del infierno con Devil's Kiss! Lanza granadas de fuego que explotan al contacto, ideal para enfrentarte a grupos de enemigos y sembrar el caos. Si buscas poder y destrucción, este es el vigorizador para ti.",
+        "promocion": "¡Desata el fuego del infierno con Devil's Kiss! Lanza granadas de fuego que explotan al contacto, ideal para enfrentarte a grupos de enemigos y sembrar el caos. Si buscas poder y destrucción, este es el vigorizador para ti.",
+        "descripcion": "Devil's Kiss es un vigorizador basado en la combustión de un fluido altamente inflamable. Al ser lanzado, el compuesto se autoenciende al contacto con el oxígeno, creando una explosión de llamas. El compuesto contiene un estabilizador térmico que asegura una combustión controlada, permitiendo que el usuario dirija la explosión hacia un objetivo específico.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -27,10 +29,11 @@
     {
         "id": 3,
         "nombre": "Murder of Crows",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526809317480/cuervos-asesinos.png?ex=665cff5e&is=665badde&hm=9a2773f29712a52afa88a1a97c553cd75b7b34f62188fe4a320838e305340630&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750922920036/botella-cuervos-asesinos.png?ex=66592460&is=6657d2e0&hm=cfab42741b938e8b7221fd67c61647eef1cb23bf54e09e1327b5ad82e9414cd3&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526809317480/cuervos-asesinos.png?ex=665cff5e&is=665badde&hm=9a2773f29712a52afa88a1a97c553cd75b7b34f62188fe4a320838e305340630&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750922920036/botella-cuervos-asesinos.png?ex=66684da0&is=6666fc20&hm=5cbe4acb5cbee510ef8b0e79f7d5a949830540debee25cf0deba1862281cb4ff&",
         "precio": 90,
-        "descripcion": "¡Desata el fuego del infierno con Devil's Kiss! Lanza granadas de fuego que explotan al contacto, ideal para enfrentarte a grupos de enemigos y sembrar el caos. Si buscas poder y destrucción, este es el vigorizador para ti.",
+        "promocion": "Convoca a un enjambre de cuervos furiosos con Murder of Crows. Estos aliados alados atacarán a tus enemigos sin piedad, dándote la ventaja en cualquier batalla. ¡Haz que tus enemigos sientan el terror!",
+        "descripcion": "Este vigorizador utiliza un compuesto que libera feromonas diseñadas para atraer y agitar cuervos en la proximidad. Al ser liberado, las aves responden agresivamente a las feromonas, atacando cualquier forma de vida en el área afectada. El compuesto se dispersa rápidamente en el aire y es inofensivo para los humanos y los animales una vez disipado.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -39,10 +42,11 @@
     {
         "id": 4,
         "nombre": "Bucking Bronco",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526221983875/caballo-salvaje.png?ex=665cff5e&is=665badde&hm=e415ed75bdbbc82c6c90b12c5ffd3d8c66c9345f6a5cbc005865017700404176&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750281191504/botella-caballo-salbaje.png?ex=6659245f&is=6657d2df&hm=5198dc03fbb5f6596763f07c2e40919a031bed213b39f62c379fe238893463cc&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526221983875/caballo-salvaje.png?ex=665cff5e&is=665badde&hm=e415ed75bdbbc82c6c90b12c5ffd3d8c66c9345f6a5cbc005865017700404176&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750281191504/botella-caballo-salbaje.png?ex=66684d9f&is=6666fc1f&hm=523b7d491f52577c7ba8e3ee19300989744dd9d1be8769c54fcde8ee94058b6b&",
         "precio": 50,
-        "descripcion": "¡Levanta a tus enemigos por los aires con Bucking Bronco! Este vigorizador los deja vulnerables y a tu merced. Perfecto para eliminar amenazas o simplemente para divertirte viendo cómo flotan indefensos.",
+        "promocion": "¡Levanta a tus enemigos por los aires con Bucking Bronco! Este vigorizador los deja vulnerables y a tu merced. Perfecto para eliminar amenazas o simplemente para divertirte viendo cómo flotan indefensos.",
+        "descripcion":"Bucking Bronco emplea un gas neuroactuante que, al ser inhalado, induce una fuerte contracción de los músculos del suelo pélvico en los sujetos afectados, lanzándolos violentamente hacia el aire. El compuesto actúa directamente sobre el sistema nervioso central, causando una momentánea pérdida de control motriz sin efectos permanentes.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -51,10 +55,11 @@
     {
         "id": 5,
         "nombre": "Shock Jockey",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527497179197/jinete-electrico.png?ex=665cff5e&is=665badde&hm=b794cfa541b307eb3f9efebd73ca4e9e927b9204441a32a67222b74844e37c7d&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545751858380840/botella-jinete-electrico.png?ex=66592460&is=6657d2e0&hm=6949b69a19ab3ac3b3def089a391ec2cddd15ad75b36cd6384eee5e7e9edb510&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527497179197/jinete-electrico.png?ex=665cff5e&is=665badde&hm=b794cfa541b307eb3f9efebd73ca4e9e927b9204441a32a67222b74844e37c7d&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545751858380840/botella-jinete-electrico.png?ex=66684da0&is=6666fc20&hm=acf2af7daf7d1f46fedec238207afc133da4a47870e9cae3bca794af8a50c1f5&",
         "precio": 85,
-        "descripcion": "¡Electrifica a tus enemigos con Shock Jockey! Dispara rayos eléctricos que los aturden y dejan fuera de combate. Ideal para controlar multitudes y dominar cualquier situación con un toque electrizante.",
+        "promocion": "¡Electrifica a tus enemigos con Shock Jockey! Dispara rayos eléctricos que los aturden y dejan fuera de combate. Ideal para controlar multitudes y dominar cualquier situación con un toque electrizante.",
+        "descripcion": "El compuesto de Shock Jockey genera un campo eléctrico de alta intensidad mediante la manipulación de iones en el ambiente. Al ser activado, el vigorizador induce una descarga eléctrica que incapacita a los sujetos al sobrecargar sus sistemas nerviosos. La energía liberada es lo suficientemente potente para causar quemaduras superficiales y aturdimiento temporal.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -63,10 +68,11 @@
     {
         "id": 6,
         "nombre": "Charge",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526507192460/carga.png?ex=665cff5e&is=665badde&hm=5e45cbca10dcb23593b524b73717cec2983b07f360be2b199f79be8f18405888&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750583316520/botella-carga.png?ex=66592460&is=6657d2e0&hm=28904d2ca4e7017b6d9b2f2f41572ad6279d4a170b9595d6ac97bdb646c752f4&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605526507192460/carga.png?ex=665cff5e&is=665badde&hm=5e45cbca10dcb23593b524b73717cec2983b07f360be2b199f79be8f18405888&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545750583316520/botella-carga.png?ex=66684da0&is=6666fc20&hm=8b6ce23712d11f2123deb54f4900a7e5d5ada057e674628f7228ba5a257d86c5&",
         "precio": 50,
-        "descripcion": "¡Carga contra tus enemigos con una fuerza imparable usando Charge! Este vigorizador aumenta tu velocidad y poder, permitiéndote embestir a tus oponentes con devastadora fuerza. No hay barrera que se interponga en tu camino.",
+        "promocion": "¡Carga contra tus enemigos con una fuerza imparable usando Charge! Este vigorizador aumenta tu velocidad y poder, permitiéndote embestir a tus oponentes con devastadora fuerza. No hay barrera que se interponga en tu camino.",
+        "descripcion": "Charge contiene un reactivo químico que aumenta temporalmente la masa muscular y la densidad ósea del usuario. Al ser activado, el compuesto provoca una sobrecarga de adrenalina y un aumento en la capacidad motora, permitiendo al usuario ejecutar una carga de alta velocidad y gran fuerza. Los efectos son breves y requieren un período de recuperación.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -75,10 +81,11 @@
     {
         "id": 7,
         "nombre": "Undertow",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528365400165/tiron-de-fondo.png?ex=665cff5e&is=665badde&hm=d1de38623b59ed6f62fb6054f18d9698bbe6a096e05652d73c77c759b161c4af&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545752613097482/botella-tiron-de-fondo.png?ex=66592460&is=6657d2e0&hm=61ae35a331dcdf85546a227b7274628c4fc6f5dc557ffd2967062a2d5b8c47b2&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528365400165/tiron-de-fondo.png?ex=665cff5e&is=665badde&hm=d1de38623b59ed6f62fb6054f18d9698bbe6a096e05652d73c77c759b161c4af&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545752613097482/botella-tiron-de-fondo.png?ex=66684da0&is=6666fc20&hm=211a78a180aa3bffd25f8861083ee3b0cd7169915198fc579c2902c61f5b2b74&",
         "precio": 60,
-        "descripcion": "¡Manipula el agua a tu favor con Undertow! Empuja o atrae a tus enemigos con poderosas corrientes, controlando el campo de batalla como nunca antes. Perfecto para mantener a raya a tus oponentes o acercarlos para un golpe final.",
+        "promocion": "¡Manipula el agua a tu favor con Undertow! Empuja o atrae a tus enemigos con poderosas corrientes, controlando el campo de batalla como nunca antes. Perfecto para mantener a raya a tus oponentes o acercarlos para un golpe final.",
+        "descripcion":"Undertow libera un compuesto hidrofílico que genera un poderoso chorro de agua controlado. Al ser activado, el vigorizador utiliza la humedad ambiental para crear una corriente de alta presión capaz de empujar o atraer objetos y sujetos. El compuesto se disuelve rápidamente sin dejar residuos tóxicos.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -87,10 +94,11 @@
     {
         "id": 8,
         "nombre": "Return to Sender",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527207645224/devuelvase-al-remitente.png?ex=665cff5e&is=665badde&hm=1fcc30f5c15bd7be0f06b759ccbef140690717146f02cdf07c385aba2587e222&",
         "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605527207645224/devuelvase-al-remitente.png?ex=665cff5e&is=665badde&hm=1fcc30f5c15bd7be0f06b759ccbef140690717146f02cdf07c385aba2587e222&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545751371583508/botella-devuelvase-al-remitente.png?ex=66592460&is=6657d2e0&hm=f7e7a8e62584e40017b44efa4e0dcc24db628a599c81387ec1dc1f144b90620f&",
         "precio": 99,
-        "descripcion": "¡Defiéndete y contraataca con Return to Sender! Absorbe balas enemigas y devuélvelas con mayor fuerza. Este vigorizador te convierte en una fortaleza impenetrable y un arma letal al mismo tiempo. ¡La mejor defensa es un buen ataque! ",
+        "promocion": "¡Defiéndete y contraataca con Return to Sender! Absorbe balas enemigas y devuélvelas con mayor fuerza. Este vigorizador te convierte en una fortaleza impenetrable y un arma letal al mismo tiempo. ¡La mejor defensa es un buen ataque! ",
+        "descripcion": "Este vigorizador genera un campo de energía que absorbe y almacena energía cinética y térmica de proyectiles entrantes. La energía acumulada puede ser liberada de nuevo como una poderosa onda de choque. El compuesto contiene nanoestructuras que se alinean rápidamente para formar una barrera protectora cuando se activa.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -99,10 +107,11 @@
     {
         "id": 9,
         "nombre": "Sales: Small Bottle",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66592460&is=6657d2e0&hm=6312013c42cccc3c88a9d861d433109af5303532db8c5bd1a6ff22b401ce13fd&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66684da0&is=6666fc20&hm=e8cc84f0ba6485be84894556ad905b05a7c1153260ff80f4676a666cfb62ee86&",
         "precio": 19,
-        "descripcion": "¡Recarga tu energía con nuestra Botella de Sales Pequeña! Perfecta para esos momentos en los que necesitas un pequeño impulso, esta botella es ideal para llevar en cualquier bolsillo. ¡No te quedes sin energía cuando más la necesitas!",
+        "promocion": "¡Recarga tu energía con nuestra Botella de Sales Pequeña! Perfecta para esos momentos en los que necesitas un pequeño impulso, esta botella es ideal para llevar en cualquier bolsillo. ¡No te quedes sin energía cuando más la necesitas!",
+        "descripcion": "Las Sales actúan como catalizadores bioquímicos que potencian las capacidades electromagnéticas y neurológicas del usuario. Cuando se consumen,se integran rápidamente en el torrente sanguíneo y son transportadas al cerebro. Se integran en el torrente sanguíneo, estimulando la actividad neuronal y facilitando habilidades psíquicas menores.",
         "categoria": {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -111,10 +120,11 @@
     {
         "id": 10,
         "nombre": "Sales: Medium Bottle",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66592460&is=6657d2e0&hm=6312013c42cccc3c88a9d861d433109af5303532db8c5bd1a6ff22b401ce13fd&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66684da0&is=6666fc20&hm=e8cc84f0ba6485be84894556ad905b05a7c1153260ff80f4676a666cfb62ee86&",
         "precio": 45,
-        "descripcion": "¡Aumenta tu poder con la Botella de Sales Mediana! Esta botella ofrece una cantidad generosa de sales para mantenerte en pie durante las batallas más intensas. Ideal para aquellos que necesitan un impulso intermedio para continuar su misión.",
+        "promocion": "¡Aumenta tu poder con la Botella de Sales Mediana! Esta botella ofrece una cantidad generosa de sales para mantenerte en pie durante las batallas más intensas. Ideal para aquellos que necesitan un impulso intermedio para continuar su misión.",
+        "descripcion": "Las Sales actúan como catalizadores bioquímicos que potencian las capacidades electromagnéticas y neurológicas del usuario. Cuando se consumen,se integran rápidamente en el torrente sanguíneo y son transportadas al cerebro. Se integran en el torrente sanguíneo, estimulando la actividad neuronal y facilitando habilidades psíquicas intermedias.",
         "categoria":  {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -123,10 +133,11 @@
     {
         "id": 11,
         "nombre": "Sales: Large Bottle",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
-        "botella": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66592460&is=6657d2e0&hm=6312013c42cccc3c88a9d861d433109af5303532db8c5bd1a6ff22b401ce13fd&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1246605528063283321/sales.png?ex=665cff5e&is=665badde&hm=2f69986a75f4cba8437e0fd2cb821a1e66abe184d7b4b2a5c4c4dce3b7058a0d&",
+        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245545753015881788/bottles-salts.png?ex=66684da0&is=6666fc20&hm=e8cc84f0ba6485be84894556ad905b05a7c1153260ff80f4676a666cfb62ee86&",
         "precio":  60,
-        "descripcion": "¡Maximiza tu rendimiento con la Botella de Sales Grande! La opción definitiva para los guerreros más exigentes, esta botella te proporciona una carga completa de energía para que nunca te falte potencia en el campo de batalla. ¡Prepárate para la acción sin límites!",
+        "promocion": "¡Maximiza tu rendimiento con la Botella de Sales Grande! La opción definitiva para los guerreros más exigentes, esta botella te proporciona una carga completa de energía para que nunca te falte potencia en el campo de batalla. ¡Prepárate para la acción sin límites!",
+        "descripcion": "Las Sales actúan como catalizadores bioquímicos que potencian las capacidades electromagnéticas y neurológicas del usuario. Cuando se consumen,se integran rápidamente en el torrente sanguíneo y son transportadas al cerebro. Se integran en el torrente sanguíneo, estimulando la actividad neuronal y facilitando habilidades psíquicas avanzadas.",
         "categoria":  {
             "id": "vigorizador",
             "nombre": "vigorizador"
@@ -136,9 +147,13 @@
     {
         "id": 12,
         "nombre": "Broadsider Pistol",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586597701877760/broadsider.png?ex=6659f32a&is=6658a1aa&hm=6018b44d493cf3a2547fe5d79bd23e125b90a8f9b7a1d524f0a737841bb66b7b&",
-        "precio": 30,
-        "descripcion": "¡Hazte con la clásica Broadsider Pistol! Confiable y precisa, esta pistola es perfecta para aquellos que buscan un arma balanceada y efectiva. Ideal para enfrentamientos a corta y media distancia. ¡La compañera perfecta para cualquier héroe!",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586597701877760/broadsider.png?ex=6659f32a&is=6658a1aa&hm=6018b44d493cf3a2547fe5d79bd23e125b90a8f9b7a1d524f0a737841bb66b7b&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249890500874290/broadsider_ammo.png?ex=6668985f&is=666746df&hm=51fa08171fe0b3b9db8906f9a0162cfc797c2b1e66063ef0cc4006b13ca2eec8&",
+        "precio": 50,
+        "promocion": "¡Hazte con la clásica Broadsider Pistol! Confiable y precisa, esta pistola es perfecta para aquellos que buscan un arma balanceada y efectiva. Ideal para enfrentamientos a corta y media distancia. ¡La compañera perfecta para cualquier héroe!",
+        "descripcion": "Pistola de calibre mediano diseñada para precisión y confiabilidad en combates a corta y media distancia.",
+        "dato": "Alcance: hasta 50 metros.",
+        "carga": "Tamaño del cargador: 6 balas.",
         "categoria": {
             "id": "armas"
         }
@@ -146,9 +161,13 @@
     {
         "id": 13,
         "nombre": "Machine Gun",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586599765606410/triple_r.png?ex=6659f32b&is=6658a1ab&hm=08661ce4c4d8c0f7928b431c6bbb833d659be64dd6610bad95f832ca4b3527be&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586599765606410/triple_r.png?ex=6659f32b&is=6658a1ab&hm=08661ce4c4d8c0f7928b431c6bbb833d659be64dd6610bad95f832ca4b3527be&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249892560408606/triple_r_ammo.png?ex=666746e0&is=6665f560&hm=af57783131e13c77ae61d6d7b02743cc1c4a2c4b49f5e3a15c453fde0642c560&",
         "precio": 70,
-        "descripcion": "¡Desata una tormenta de balas con la Machine Gun! Esta poderosa arma automática es perfecta para controlar multitudes y mantener a raya a tus enemigos. Con una alta cadencia de fuego, ningún enemigo se sentirá seguro. ¡Dominio absoluto en tus manos!",
+        "promocion": "¡Desata una tormenta de balas con la Machine Gun! Esta poderosa arma automática es perfecta para controlar multitudes y mantener a raya a tus enemigos. Con una alta cadencia de fuego, ningún enemigo se sentirá seguro. ¡Dominio absoluto en tus manos!",
+        "descripcion": "Ametralladora automática con alta cadencia de fuego, diseñada para ofrecer una cobertura de supresión efectiva.",
+        "dato": "Alcance: hasta 200 metros.",
+        "carga": "Tamaño del cargador: 30 balas.",
         "categoria": {
             "id": "armas"
         }
@@ -156,9 +175,13 @@
     {
         "id": 14,
         "nombre": "Arma de Fuego: Carbine",
-        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586599119425566/fusil-de-presicion.png?ex=6659f32b&is=6658a1ab&hm=f729a75c0d2b152c00cf9516feba898f8652ecb164b72ad507949c3779ea8514&",
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586599119425566/fusil-de-presicion.png?ex=6659f32b&is=6658a1ab&hm=f729a75c0d2b152c00cf9516feba898f8652ecb164b72ad507949c3779ea8514&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891503570984/fusil-de-presicion_ammo.png?ex=666746e0&is=6665f560&hm=324f0e52b69e80b3fff740dc48f2c7132ed30e3ace7b712c5b1c4634ebf78bbe&",
         "precio": 75,
-        "descripcion": "¡Precisión y poder con la Carbine! Ideal para tiradores que prefieren un enfoque táctico, esta carabina ofrece un alcance excelente y un impacto devastador. Perfecta para eliminar objetivos a distancia con una precisión mortal. ¡La elección del francotirador!",
+        "promocion": "¡Precisión y poder con la Carbine! Ideal para tiradores que prefieren un enfoque táctico, esta carabina ofrece un alcance excelente y un impacto devastador. Perfecta para eliminar objetivos a distancia con una precisión mortal. ¡La elección del francotirador!",
+        "descripcion": "Carabina de largo alcance con alta precisión y poder de impacto. Diseñada para tiradores tácticos que necesitan eliminar objetivos a distancia con eficacia. ",
+        "dato": "Alcance: hasta 400 metros.",
+        "carga": "Tamaño del cargador: 8 balas.",
         "categoria": {
             "id": "armas"
         }
@@ -166,9 +189,13 @@
     {
         "id": 15,
         "nombre": "Shotgun",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586598507184229/china-broom.png?ex=6659f32a&is=6658a1aa&hm=8dee8d7e0d2f97263e22b4be82f9d9ce8f801e71b7f30fadbb3dee0c215e562c&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586598507184229/china-broom.png?ex=6659f32a&is=6658a1aa&hm=8dee8d7e0d2f97263e22b4be82f9d9ce8f801e71b7f30fadbb3dee0c215e562c&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891167768608/china-broom_ammo.png?ex=666746df&is=6665f55f&hm=59507e3c54c97455da53a0118301e6a5a9b7c6a8adf3b7177afb238676e05aaf&",
         "precio": 55,
-        "descripcion": "¡Devastadora en combates cercanos, la Shotgun es tu mejor aliada! Con su inmenso poder de disparo, ningún enemigo podrá resistirse a su brutalidad. Ideal para aquellos que prefieren la acción directa y contundente. ¡Haz que cada disparo cuente!",
+        "promocion": "¡Devastadora en combates cercanos, la Shotgun es tu mejor aliada! Con su inmenso poder de disparo, ningún enemigo podrá resistirse a su brutalidad. Ideal para aquellos que prefieren la acción directa y contundente. ¡Haz que cada disparo cuente!",
+        "descripcion": "Escopeta de alto calibre diseñada para combates cercanos. Su amplio radio de impacto y potencia hacen que sea ideal para neutralizar rápidamente a los enemigos en espacios reducidos.",
+        "alcance": "Alcance: hasta 20 metros.",
+        "carga": "Tamaño del cargador: 2 balas. ",
         "categoria": {
             "id": "armas"
         }
@@ -176,9 +203,13 @@
     {
         "id": 16,
         "nombre": "RPG",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245825993604857886/hail_fire.png?ex=665a295f&is=6658d7df&hm=cf225e06c768b56086c36858e7e838955f1bbfc094a8c567f24e746198aa1a22&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1245825993604857886/hail_fire.png?ex=665a295f&is=6658d7df&hm=cf225e06c768b56086c36858e7e838955f1bbfc094a8c567f24e746198aa1a22&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249892237316146/hail_fire_ammo.png?ex=666746e0&is=6665f560&hm=c684d32e40b9353cd2ad63fbc4a6e137e0b4e08030014c4f31e9facea2463d0c&",
         "precio": 90,
-        "descripcion": "¡Destruye todo a tu paso con el RPG! Esta arma de alto impacto es perfecta para derribar enemigos y estructuras con una sola explosión. Cuando necesitas hacer un gran impacto, el RPG es tu mejor opción. ¡Potencia destructiva garantizada!",
+        "promocion": "¡Destruye todo a tu paso con el RPG! Esta arma de alto impacto es perfecta para derribar enemigos y estructuras con una sola explosión. Cuando necesitas hacer un gran impacto, el RPG es tu mejor opción. ¡Potencia destructiva garantizada!",
+        "descripcion": "Lanzacohetes portátil diseñado para proporcionar una alta capacidad destructiva. Ideal para eliminar vehículos, estructuras y grandes grupos de enemigos con un solo disparo. ",
+        "dato": "Alcance: hasta 300 metros.",
+        "carga": "Tamaño del cargador: 1 cohete.",
         "categoria": {
             "id": "armas"
         
@@ -187,9 +218,542 @@
     {
         "id": 17,
         "nombre": "Hand Cannon",
-        "imagen": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586598066651166/canon-de-mano.png?ex=6659f32a&is=6658a1aa&hm=a84a2c9d6707ed0fad0950c39e09975fdb42a882a1277e92278ce7eb23c54f28&",
+        "logo": "https://cdn.discordapp.com/attachments/1245545691087114322/1245586598066651166/canon-de-mano.png?ex=6659f32a&is=6658a1aa&hm=a84a2c9d6707ed0fad0950c39e09975fdb42a882a1277e92278ce7eb23c54f28&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249890811514942/canon-de-mano_ammo.png?ex=666746df&is=6665f55f&hm=ce9c66f2f54c867b4b6c9abf4f550c1eb1e16ad03ced86d39aa881fbacfd63d3&",
         "precio": 50,
-        "descripcion": "¡El Hand Cannon es el rey de las pistolas! Con un poder de disparo increíble y un diseño robusto, esta arma es perfecta para aquellos que buscan un golpe certero y mortal. Ideal para acabar con tus enemigos con estilo y contundencia. ¡Potencia en la palma de tu mano!",
+        "promocion": "¡El Hand Cannon es el rey de las pistolas! Con un poder de disparo increíble y un diseño robusto, esta arma es perfecta para aquellos que buscan un golpe certero y mortal. Ideal para acabar con tus enemigos con estilo y contundencia. ¡Potencia en la palma de tu mano!",
+        "descripcion": "Pistola de gran calibre con un poder de disparo superior. Diseñada para proporcionar un impacto máximo con cada disparo, perfecta para eliminar enemigos con un solo tiro. ",
+        "dato": "Alcance: hasta 75 metros.",
+        "cargador": "Tamaño del cargador: 5 balas.",
+        "categoria": {
+            "id": "armas"
+        }
+    },
+    {
+        "id": 18,
+        "nombre": "Sombrero: Con Sangre Entra",
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250282072969226/sombrero_con_sangre_extra.png?ex=66669e7d&is=66654cfd&hm=35efd020c8ee8b7a310cf849a3f6a301a0d5ef4735be777d39c32951e6d5e1b3&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "precio": 30,
+        "promocion": "¡Embiste a tus enemigos con la fuerza de la naturaleza con 'Con Sangre Entra'! Esta prenda te permite ejecutar cargas de embestida, derribando a tus oponentes y sembrando el caos en el campo de batalla.",
+        "descripcion": "'Con Sangre Entra' es una prenda que aprovecha la manipulación de las fuerzas gravitacionales locales y la energía cinética del usuario para generar una onda de choque concentrada. Esta onda de choque puede ser dirigida hacia un objetivo específico, causando daño contundente y desorientación al impactar.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 19,
+        "nombre": "Sombrero: Control de aceleracion",
+        "precio": 50,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250282483875881/sombrero_Control_de_aceleracion.png?ex=66669e7d&is=66654cfd&hm=6d54f111808d632f8a05b9cb456557dcb28358c0c7d867c83cef056cdc71aa70&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Domina la velocidad del combate con Control de Aceleración! Aumenta tu agilidad y capacidad de maniobra en el campo de batalla.",
+        "descripcion": "Control de Aceleración utiliza plásmidos de mejora neuromuscular para aumentar temporalmente la velocidad y la capacidad de reacción del usuario, permitiendo movimientos más rápidos y ágiles durante el combate.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+        
+    },
+    {
+        "id": 20,
+        "nombre": "Sombrero: Elemento Sorpresa",
+        "precio": 45,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250283154964641/sombrero_elemento_sorpresa.png?ex=66669e7d&is=66654cfd&hm=8ca919db1f2b02e6c1b5cc7ed0f3a0f1816e04e97c2b22634e24f421ffeb8a45&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Toma a tus enemigos por sorpresa con Elemento Sorpresa! Dispara proyectiles que causan daño adicional y efectos secundarios impredecibles.",
+        "descripcion": "Elemento Sorpresa utiliza una combinación de sustancias químicas reactivas y tecnología de proyectiles para generar efectos variados al impactar. Estos efectos pueden incluir desde explosiones hasta aturdimiento, manteniendo a los enemigos en constante desconcierto.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 21,
+        "nombre": "Sombrero: Experto en Tecnología",
+        "precio": 35,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250238510796900/sombrero_experto_en_tenologia.png?ex=66669e72&is=66654cf2&hm=f81f9943838209c31ad5e32b9bb4dc8194c48ffc95d0090af1603eb51238c219&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Domina la tecnología con Experto en Tecnología! Mejora tus habilidades técnicas y aumenta la eficacia de tus armas y herramientas.",
+        "descripcion": "Experto en Tecnología incorpora mejoras cibernéticas y de interfaz que optimizan la interacción del usuario con dispositivos tecnológicos, aumentando la eficiencia y precisión en su uso.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 22,
+        "nombre": "Sombrero: Halo Ardiente",
+        "precio": 55,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250238976233542/sombrero_halo_ardiente.png?ex=66669e72&is=66654cf2&hm=5f1d65b0ab58701970110111c5d33297ede04003ad49d7e9a8603365f3f24eee&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Haz que el campo de batalla arda con Halo Ardiente! Los ataques cuerpo a cuerpo causan una explosión de fuego, incinerando a los enemigos y sembrando el caos.",
+        "descripcion": "Halo Ardiente incorpora tecnología de plásmidos pirotécnicos que encienden una pequeña explosión controlada al impacto físico, convirtiendo la energía cinética en energía térmica para dañar a múltiples objetivos.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 23,
+        "nombre": "Sombrero: Ojo Maligno",
+        "precio": 45,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250239295262730/sombrero_ojo_maligno.png?ex=66669e72&is=66654cf2&hm=506a7082c0c398d736b69572a6e7e16fc467ba212d26c42b66136d6f37897ec1&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Observa y domina a tus enemigos con Ojo Maligno! Revela la ubicación y debilidades de tus oponentes, aumentando tu ventaja estratégica en combate.",
+        "descripcion": "Ojo Maligno emplea tecnología de escaneo avanzada para analizar la biometría y la psicología de los objetivos, proporcionando al usuario información detallada sobre su posición y estado emocional.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 24,
+        "nombre": "Sombrero: Sed de Sangre Creciente",
+        "precio": 60,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250239659901059/sombrero_sed_de_sangre_creciente.png?ex=66669e73&is=66654cf3&hm=3ec04813884e05057920ef8a71264399d27a1eb1e6b31df2602c8b6852f6cb53&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Alimenta tu sed de poder con Sed de Sangre Creciente! Cada enemigo derrotado aumenta tu fuerza y resistencia, convirtiéndote en una fuerza imparable en el campo de batalla.",
+        "descripcion": "Sed de Sangre Creciente utiliza tecnología de plásmidos de amplificación de adrenalina que aumenta progresivamente la fuerza y la resistencia del usuario con cada enemigo derrotado, proporcionando un impulso adicional en combate continuo.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 25,
+        "nombre": "Sombrero: Sombrero de Correcaminos",
+        "precio": 35,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250282765025391/sombrero_de_correcaminos.png?ex=66669e7d&is=66654cfd&hm=7898ca29e3f01efff96b4de3a7745e5a2352766cf7a700c1ee3aa700730d6c9f&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Aumenta tu velocidad con el Sombrero de Correcaminos! Corre más rápido y esquiva los ataques enemigos con facilidad.",
+        "descripcion": "El Sombrero de Correcaminos utiliza tecnología de plásmidos de mejora muscular que incrementa la velocidad y la agilidad del usuario, permitiéndole moverse rápidamente y esquivar ataques enemigos con facilidad.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 26,
+        "nombre": "Sombrero: Tope de Munición",
+        "precio": 45,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250240004100297/sombrero_tope_de_municion.png?ex=66669e73&is=66654cf3&hm=e3097ac7d663cd07ead2c6e5b0a1ec78dfcaa6a5576149090defa4da8797143e&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Nunca te quedes sin balas con el Tope de Munición! Aumenta la capacidad de carga de tus armas, manteniéndote preparado para cualquier situación.",
+        "descripcion": "El Tope de Munición incorpora un sistema de almacenamiento mejorado y tecnología de compresión de municiones que aumenta la capacidad de carga de las armas del usuario, garantizando un suministro constante de munición durante el combate.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 27,
+        "nombre": "Sombrero: Toque Eléctrico",
+        "precio": 40,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250240322736250/sombrero_toque_electrico.png?ex=66669e73&is=66654cf3&hm=ce1bb941ddf3aeb19eefbf9d5449fc9a8290ccc8f37d8764e19951eaa1b83a4a&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Electrocuta a tus enemigos con el Toque Eléctrico! Los golpes cuerpo a cuerpo tienen un 70% de probabilidad de electrificar, causando daño adicional y aturdiendo a los enemigos.",
+        "descripcion": "El Toque Eléctrico integra capacidades de bioelectrogénesis en la musculatura del usuario, permitiendo la descarga de energía eléctrica al contacto, incapacitando a los oponentes.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 28,
+        "nombre": "Sombrero: Tormenta",
+        "precio": 55,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250240704544861/sombrero_tormenta.png?ex=66669e73&is=66654cf3&hm=75438f99644124e11ca8fa21fbfd066ea6d279b53373d77741bd5b1f7b822679&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Desata una tormenta de destrucción con Tormenta! Lanza poderosos relámpagos que electrocutan y desintegran a tus enemigos.",
+        "descripcion": "Tormenta utiliza tecnología avanzada de plásmidos para canalizar la energía atmosférica y generar descargas eléctricas concentradas, causando daño devastador a los objetivos dentro de su radio de alcance.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 29,
+        "nombre": "Sombrero: Trepa",
+        "precio": 20,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250241140756550/sombrero_trepa.png?ex=66669e73&is=66654cf3&hm=b9ced36ad7267fcb407972727a63fb31c1900322c256734da5f9d473aca16d9a&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Domina el entorno vertical con Trepa! Escala superficies verticales y accede a áreas inaccesibles para tus enemigos.",
+        "descripcion": "Trepa utiliza tecnología de plásmidos de adhesión molecular que permite al usuario adherirse a superficies verticales, escalando con facilidad y accediendo a ubicaciones estratégicas durante el combate.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+    "id": 30,
+    "nombre": "Sombrero: Vida Protegida",
+    "precio": 45,
+    "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250241526366250/sombrero_vida_protegida.png?ex=66669e73&is=66654cf3&hm=4136733a002e5e8263e3bbbf9d558caea0b102035ba9179b7a3a367019b4d50d&",
+    "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+    "promocion": "¡Fortalece tu resistencia con Vida Protegida! Aumenta tu salud máxima y reduce el daño recibido, manteniéndote en pie durante los enfrentamientos más intensos.",
+    "descripcion": "Vida Protegida utiliza tecnología de plásmidos de regeneración celular que fortalece la constitución física del usuario, aumentando su salud máxima y mejorando su capacidad para resistir el daño en combate.",
+    "categoria": {
+        "id": "indumentaria"
+    }
+    },
+    {
+        "id": 31,
+        "nombre": "Chaleco: Chaleco del Recogedor",
+        "precio": 65,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250005374730260/chaleco_del_recogedor.png?ex=666746fb&is=6665f57b&hm=03fc694650cb13b9463b705e7b6be2b1eda79d3d48de449b4f5de7eb06142686&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Maximiza tus recompensas con el Chaleco del Recogedor! Aumenta la cantidad de objetos y munición que encuentras al explorar.",
+        "descripcion": "El Chaleco del Recogedor está equipado con sensores de escaneo y sistemas de almacenamiento optimizados que mejoran la capacidad del usuario para localizar y recolectar recursos valiosos en su entorno.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 32,
+        "nombre": "Chaleco: Chaleco Mitro",
+        "precio": 75,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250006142025769/chaleco_mitro.png?ex=666746fb&is=6665f57b&hm=9cfcd15503230981e1ce7ce100911c0e8408697f8a56e95840a2b099b84af1d4&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Protección avanzada con el Chaleco Mitro! Reduce el daño recibido y mejora tu resistencia en combate.",
+        "descripcion": "El Chaleco Mitro utiliza materiales de alta densidad y tecnología de dispersión de impacto para reducir el daño recibido, aumentando la durabilidad y resistencia del usuario en situaciones de combate intensas.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 33,
+        "nombre": "Chaleco: Chaqueta Eléctrica",
+        "precio": 60,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250005009829959/chaleco_chaqueta_electrica.png?ex=666746fb&is=6665f57b&hm=f18b165dbd7073311465425628291dc72e331f74ece38a390efe05d771ad90b7&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Electrocuta a tus enemigos con la Chaqueta Eléctrica! Ataca a tus oponentes y descarga una poderosa corriente eléctrica.",
+        "descripcion": "La Chaqueta Eléctrica incorpora circuitos de alta tensión y plásmidos de bioelectrogénesis, permitiendo al usuario generar y dirigir descargas eléctricas a los enemigos cercanos.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 34,
+        "nombre": "Chaleco: Fuente de Males",
+        "precio": 80,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250005697695816/chaleco_fuente_de_males.png?ex=666746fb&is=6665f57b&hm=2dd5699d48d9c31983b56226c947692eaa891bec50a34ab7e4f482952289b09a&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Debilita a tus enemigos con la Fuente de Males! Inflige daño progresivo y reduce la efectividad de los ataques enemigos.",
+        "descripcion": "Fuente de Males utiliza tecnología de plásmidos de desestabilización celular para infligir daño continuo a los enemigos y disminuir su capacidad de ataque, debilitándolos progresivamente.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 35,
+        "nombre": "Chaleco: Pirómano",
+        "precio": 80,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250006431567964/chaleco_piromano.png?ex=666746fb&is=6665f57b&hm=e94a6f8845082fb1a30ad0f187fe265607b4b09f94987073d032f92b2c8795a7&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Quema a tus adversarios con Pirómano! Aumenta el daño de tus ataques incendiarios y causa estragos en el campo de batalla.",
+        "descripcion": "Pirómano emplea plásmidos pirotécnicos avanzados para amplificar el daño térmico de los ataques incendiarios del usuario, asegurando un efecto devastador en los objetivos.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 36,
+        "nombre": "Chaleco: Precisión en Aerocarril",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250006700130375/chaleco_precision_en_aerocarril.png?ex=666746fb&is=6665f57b&hm=d521e6d7725196055ec5218a00c1512cb3f06595a0371320c4cb8a59c62c889f&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Domina los cielos con Precisión en Aerocarril! Mejora tu puntería y estabilidad mientras te desplazas por los aerocarriles.",
+        "descripcion": "Precisión en Aerocarril incorpora estabilizadores giroscópicos y sistemas de mejora óptica que optimizan la puntería y estabilidad del usuario durante el movimiento en aerocarriles, permitiendo disparos más precisos.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 37,
+        "nombre": "Chaleco: Rugido Vital",
+        "precio": 80,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250006993604649/chaleco_rugido_vital.png?ex=666746fb&is=6665f57b&hm=7691325cd6d5b0726a6fe8c720417c2febedbc26862f32c87734e28667be72e5&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Recupera tu salud con el Rugido Vital! Cada enemigo derrotado restaura una porción de tu vitalidad.",
+        "descripcion": "Rugido Vital utiliza tecnología de plásmidos de regeneración biológica que convierte la energía de los enemigos derrotados en salud recuperable para el usuario, mejorando su capacidad de supervivencia en combate.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 38,
+        "nombre": "Chaleco: Trampas Mejoradas",
+        "precio": 95,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250007283142766/chaleco_trampa_mejorada.png?ex=666746fb&is=6665f57b&hm=ef2afcdd75f5f71a3bb3e6ada1b5d19b4a09a862aa3deaac0570314d5b1007f7&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Haz que tus trampas sean letales con Trampas Mejoradas! Aumenta el daño y la efectividad de tus trampas.",
+        "descripcion": "Trampas Mejoradas integra tecnología de plásmidos de aumento de energía que potencia el daño y la eficacia de las trampas desplegadas por el usuario, asegurando un mayor impacto en los enemigos que caigan en ellas.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 39,
+        "nombre": "Chaleco: Verdugo",
+        "precio": 95,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250007572545546/chaleco_verdugo.png?ex=666746fb&is=6665f57b&hm=a3731ea15a4cb6164d6593168fa59040c4d0c8526f03268dd73314c574efb31c&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Siembra el terror con Verdugo! Aumenta el daño de tus ataques cuerpo a cuerpo y aterroriza a tus enemigos.",
+        "descripcion": "Verdugo utiliza plásmidos de amplificación de fuerza y adrenalina para incrementar significativamente el daño de los ataques cuerpo a cuerpo, además de inducir un estado de pánico en los enemigos cercanos, reduciendo su capacidad de combate.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 40,
+        "nombre": "Calzado: Alto y Poderoso",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249947598192640/calzado_alto_y_poderoso.png?ex=666746ed&is=6665f56d&hm=96024f3887eee835242ceb09efe3a84d6d1bebb317b5b9f5f30bf3dcbbbef2f9&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Impón tu dominio con Alto y Poderoso! Mejora tu resistencia y aumenta tu poder de intimidación en combate.",
+        "descripcion": "Alto y Poderoso incorpora plásmidos de aumento físico y psicológico que incrementan la resistencia del usuario y emiten feromonas intimidantes, afectando la moral de los enemigos cercanos.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 41,
+        "nombre": "Calzado: Abrazo del Vampiro",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249947958906930/calzado_el_abrazo_del_vampiro.png?ex=666746ed&is=6665f56d&hm=7251fe70d3a1c6f12b5eb0b3bc103082994fc18f88ac41d3ed0ed9cc830e1fb5&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Absorbe la vida de tus enemigos con el Abrazo del Vampiro! Recupera salud con cada ataque cuerpo a cuerpo exitoso.",
+        "descripcion": "Abrazo del Vampiro utiliza plásmidos de transferencia vital que permiten al usuario drenar energía vital de los enemigos al impactar, recuperando salud con cada golpe cuerpo a cuerpo.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 42,
+        "nombre": "Calzado: Exceso de Fuerza",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249948466282506/calzado_exceso_de_fuerza.png?ex=666746ed&is=6665f56d&hm=d04b10fc2de6ef2d2d8313b8453546335e50d11d4eea2ebb2dc0189dda382a45&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Aplasta a tus enemigos con Exceso de Fuerza! Incrementa el daño de tus ataques cuerpo a cuerpo, garantizando golpes letales.",
+        "descripcion": "Exceso de Fuerza emplea plásmidos de amplificación de fuerza muscular, aumentando significativamente el poder de los ataques cuerpo a cuerpo del usuario.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 43,
+        "nombre": "Calzado: Ley de Newton",
+        "precio": 75,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249948919402598/calzado_ley_de_newton.png?ex=666746ed&is=6665f56d&hm=a5fd0018d2b56d2e3b13e8e2690e13edcdd71551af0590ae21cda2f99ed6f863&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Desafía la gravedad con Ley de Newton! Aumenta el daño al lanzar enemigos por el aire.",
+        "descripcion": "Ley de Newton utiliza plásmidos de manipulación gravitacional para aumentar la fuerza de los ataques que lanzan a los enemigos por el aire, causando un impacto adicional al aterrizar.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 44,
+        "nombre": "Calzado: Matar para Vivir",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249949305143378/calzado_matar_para_vivir.png?ex=666746ed&is=6665f56d&hm=f1ff5b4fffdebb7eb9b6e16ae2cac9895dc275c9f9144823bd40fcc383d9a37c&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Sobrevive y prospera con Matar para Vivir! Recupera salud al derrotar a tus enemigos, manteniéndote en pie en las batallas más intensas.",
+        "descripcion": "Matar para Vivir emplea plásmidos de absorción vital que convierten la energía de los enemigos caídos en salud recuperable para el usuario, mejorando su capacidad de supervivencia en combate.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 45,
+        "nombre": "Calzado: Muerte desde el Cielo",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249949569257514/calzado_muerde_desdeel_cielo.png?ex=666746ed&is=6665f56d&hm=9a4f4d3518a2cb3af41af467fdd4f4f42a8d4fb176b368fa1e00440198cacfb5&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Desciende con furia con Muerte desde el Cielo! Aumenta el daño de tus ataques al aterrizar desde los aerocarriles.",
+        "descripcion": "Muerte desde el Cielo utiliza plásmidos de conversión de energía cinética, permitiendo al usuario canalizar la fuerza del impacto al aterrizar en un ataque devastador.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 46,
+        "nombre": "Calzado: Sano como un Roble",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249949875437648/calzado_sano_como_un_roble.png?ex=666746ed&is=6665f56d&hm=bb9d83f2124f57eede0993afe03135360e4c034f782a4d0f705244c359b8a32f&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Fortalece tu salud con Sano como un Roble! Aumenta tu resistencia y recupera salud más rápido en combate.",
+        "descripcion": "Sano como un Roble incorpora plásmidos de regeneración celular avanzada que mejoran la capacidad del usuario para recuperarse de las heridas y aumentar su resistencia física general.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 47,
+        "nombre": "Calzado: Viento Noroeste",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249950261579806/calzado_viento_noreste.png?ex=666746ee&is=6665f56e&hm=b969ef2a91f0de3c6513976a6a4a2ebb5e8a6d773a95464a27a721bee65bd85a&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Domina los cielos con Viento Noroeste! Incrementa tu velocidad y agilidad al moverte en los aerocarriles.",
+        "descripcion": "Viento Noroeste emplea plásmidos de mejora aerodinámica y sistemas de estabilización para aumentar la velocidad y agilidad del usuario mientras se desplaza por los aerocarriles.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 48,
+        "nombre": "Calzado: Visión de Túnel",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249950672355389/calzado_vision_de_tunel.png?ex=666746ee&is=6665f56e&hm=69398e2fe8678bdbc008506593304226ca75c617e386f91d3c9b14be72b1e220&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Concentra tu puntería con Visión de Túnel! Mejora tu precisión al apuntar, garantizando que cada disparo cuenta.",
+        "descripcion": "Visión de Túnel utiliza tecnología de plásmidos de mejora óptica que focaliza la percepción visual del usuario, incrementando significativamente la precisión al apuntar.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 49,
+        "nombre": "Pantalón: Ave Ígnea",
+        "precio": 60,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250072697372718/Pantalones_ave_ignea.png?ex=6667470b&is=6665f58b&hm=8af2f8f67aa46a160725e41fca304e5def59777a3f270562add8b161c48a15eb&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Desata el poder del fuego con Ave Ígnea! Tus ataques cuerpo a cuerpo tienen una probabilidad de prender fuego a los enemigos, causando daño adicional.",
+        "descripcion":"Ave Ígnea incorpora plásmidos de pirogénesis que permiten al usuario generar llamas en el momento del impacto, inflamando a los enemigos y causando daño térmico continuo." ,
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id":50 ,
+        "nombre": "Pantalón: Compinche Espectral",
+        "precio": 65,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250073087574078/Pantalones_Compinche_espectral.png?ex=6667470b&is=6665f58b&hm=3ca2e4b816e99a28c486a51506acc031c7d8dae406ce2a34515357c1e41dc0c8&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Convoca aliados espectrales con Compinche Espectral! Los enemigos derrotados tienen una probabilidad de convertirse en aliados espectrales temporales que luchan a tu lado.",
+        "descripcion": "Compinche Espectral utiliza plásmidos de reanimación espectral que permiten al usuario reanimar temporalmente a los enemigos caídos como espectros que luchan de su lado.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 51,
+        "nombre": "Pantalón: Mano Rápida",
+        "precio": 60,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250073649483909/Pantalones_mano_rapida.png?ex=6667470b&is=6665f58b&hm=95863f3aa841338b5a2687ecb8a1995b2d1d09163844bfd1eb368a1bbb3d363a&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Ataca con velocidad y precisión con Mano Rápida! Incrementa la velocidad de tus ataques cuerpo a cuerpo, permitiéndote golpear con mayor frecuencia.",
+        "descripcion": "Mano Rápida utiliza plásmidos de mejora neuromuscular que aumentan la velocidad de reacción y la coordinación del usuario, permitiendo ataques cuerpo a cuerpo más rápidos.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 52,
+        "nombre": "Pantalón: Pisoteadores Furiosos",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250073963921448/Pantalones_pisoteadires_furiosos.png?ex=6667470b&is=6665f58b&hm=21132defa0b0814526ec272ebd9232aa5fc92c4e1602b8308f81a70a4f654d26&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Haz temblar la tierra con Pisoteadores Furiosos! Tus aterrizajes desde grandes alturas causan explosiones que dañan a los enemigos cercanos.",
+        "descripcion": "Pisoteadores Furiosos emplea plásmidos de conversión de energía cinética que convierten el impacto de los aterrizajes en explosiones, causando daño a los enemigos en la proximidad.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 53,
+        "nombre": "Pantalón: Recargador de Aerocarril",
+        "precio": 70,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250074387677247/Pantalones_recargador_de_aerocarril.png?ex=6667470b&is=6665f58b&hm=75916e43e7d497992e7addb9b0158cca035d680df61368106173053da92bae15&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Mantén tus armas listas con el Recargador de Aerocarril! Recarga automáticamente tus armas al engancharte a un aerocarril.",
+        "descripcion": "Recargador de Aerocarril utiliza plásmidos de teletransporte de munición que recargan instantáneamente las armas del usuario al contacto con los aerocarriles.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 54,
+        "nombre": "Pantalón: Sanguijuela Asquerosa",
+        "precio": 75,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250074677215384/Pantalones_sanguijuela_asquerosa.png?ex=6667470b&is=6665f58b&hm=464a49cb997e317ccb5b7ce40de1cb358f19c7dbaec382cf4b359eb3eb48eca1&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&&",
+        "promocion": "¡Recupera tu vitalidad con Sanguijuela Asquerosa! Los ataques cuerpo a cuerpo exitosos drenan salud de tus enemigos y la transfieren a ti.",
+        "descripcion": "Sanguijuela Asquerosa emplea plásmidos de transferencia vital que permiten al usuario absorber la energía vital de los enemigos al golpearlos, restaurando su propia salud.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 55,
+        "nombre": "Pantalón: Último Superviviente",
+        "precio": 80,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249250075008569456/Pantalones_ultimo_superviciente.png?ex=6667470b&is=6665f58b&hm=cc7f6dc8f6b955971af975738807e16654ceeeebaa24ca58a8592acf570b5de1&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891872542794/gear.png?ex=66689860&is=666746e0&hm=bde23b9e2d7b3b69c03b933f6c7df534acbfa0916cffa7c017e7e5cb9a6fb17e&",
+        "promocion": "¡Lucha hasta el final con Último Superviviente! Obtén un incremento temporal de salud y escudo cuando tu salud está críticamente baja.",
+        "descripcion": "Último Superviviente utiliza plásmidos de emergencia que activan una sobrecarga de regeneración celular y refuerzo de escudo cuando la salud del usuario cae por debajo de un umbral crítico, proporcionando un impulso temporal de supervivencia.",
+        "categoria": {
+            "id": "indumentaria"
+        }
+    },
+    {
+        "id": 56,
+        "nombre": "Munición: Broadsider Pistol",
+        "precio": 4,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249890500874290/broadsider_ammo.png?ex=666746df&is=6665f55f&hm=439c80aedccaa25f0079758e6118caca96973343de79ca6d84ba3eee6c1d02b1&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586597701877760/broadsider.png?ex=666873aa&is=6667222a&hm=2d682e3e2429c431b34d966bc41752a1224748bd115b64b8ab5f014d7e304bc6&",
+        "promocion": "¡Mantén tu Broadsider lista para la acción con nuestras Cajas de Municiones para Pistola! Cada caja incluye 10 balas de alta precisión, ideales para tus enfrentamientos más intensos. No te quedes sin munición en los momentos críticos. ¡Compra ahora y asegura tu victoria!",
+        "descripcion": "Nuestras municiones para pistola están fabricadas con precisión y tecnología avanzada, utilizando una aleación de alta densidad para garantizar la máxima penetración y exactitud. El calibre de 9mm es perfecto para un equilibrio entre potencia y control, optimizado para el uso en combate urbano.",
+        "categoria": {
+            "id": "armas"
+        }
+    },
+    {
+        "id": 57,
+        "nombre": "Munición: Machine Gun",
+        "precio": 20,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249892560408606/triple_r_ammo.png?ex=666746e0&is=6665f560&hm=af57783131e13c77ae61d6d7b02743cc1c4a2c4b49f5e3a15c453fde0642c560&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586599765606410/triple_r.png?ex=6659f32b&is=6658a1ab&hm=08661ce4c4d8c0f7928b431c6bbb833d659be64dd6610bad95f832ca4b3527be&",
+        "promocion": "¡No te detengas nunca con nuestras Cajas de Municiones para Ametralladora! 40 balas por caja, diseñadas para mantener el fuego constante y abrumar a tus enemigos. Perfectas para mantener el dominio del campo de batalla.",
+        "descripcion": "Municiones calibre .30-06 Springfield, creadas con tecnología de punta para asegurar una alta cadencia de fuego y mínima dispersión. Las balas están tratadas con un recubrimiento especial que reduce el desgaste del cañón y mejora la durabilidad.",
+        "categoria": {
+            "id": "armas"
+        }
+    },
+    {
+        "id": 58,
+        "nombre": "Munición: Carbine",
+        "precio": 8,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891503570984/fusil-de-presicion_ammo.png?ex=666746e0&is=6665f560&hm=324f0e52b69e80b3fff740dc48f2c7132ed30e3ace7b712c5b1c4634ebf78bbe&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586599119425566/fusil-de-presicion.png?ex=6659f32b&is=6658a1ab&hm=f729a75c0d2b152c00cf9516feba898f8652ecb164b72ad507949c3779ea8514&",
+        "promocion": "¡Versatilidad y potencia en cada disparo! Nuestras Cajas de Municiones para Carabina ofrecen 12 balas que combinan alcance y precisión. Perfectas para cualquier situación de combate.",
+        "descripcion": "Balas calibre .30-06 Springfield, diseñadas para proporcionar un equilibrio ideal entre alcance y potencia de impacto. Cada bala está fabricada con una aleación especial que asegura la integridad y la estabilidad en vuelo.",
+        "categoria": {
+            "id": "armas"
+        }
+    },
+    {
+        "id": 59,
+        "nombre": "Munición: Shotgun",
+        "precio": 6,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249891167768608/china-broom_ammo.png?ex=666746df&is=6665f55f&hm=59507e3c54c97455da53a0118301e6a5a9b7c6a8adf3b7177afb238676e05aaf&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586598507184229/china-broom.png?ex=6659f32a&is=6658a1aa&hm=8dee8d7e0d2f97263e22b4be82f9d9ce8f801e71b7f30fadbb3dee0c215e562c&",
+        "promocion": "¡Desata el poder destructivo de la escopeta! Nuestras Cajas de Municiones para Escopeta contienen 6 cartuchos explosivos que garantizan una dispersión devastadora. Perfectas para enfrentamientos cercanos.",
+        "descripcion": "Cartuchos calibre 12 Gauge, diseñados para maximizar el daño en un amplio radio de impacto. Utilizan una mezcla especial de pólvora que asegura una dispersión uniforme y letal a corta distancia.",
+        "categoria": {
+            "id": "armas"
+        }
+    },
+    {
+        "id": 60,
+        "nombre": "Munición: RPG",
+        "precio": 40,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249892237316146/hail_fire_ammo.png?ex=666746e0&is=6665f560&hm=c684d32e40b9353cd2ad63fbc4a6e137e0b4e08030014c4f31e9facea2463d0c&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245825993604857886/hail_fire.png?ex=665a295f&is=6658d7df&hm=cf225e06c768b56086c36858e7e838955f1bbfc094a8c567f24e746198aa1a22&",
+        "promocion": "¡Destruye cualquier obstáculo con las Cajas de Municiones para Lanzacohetes! Cada caja contiene 2 cohetes capaces de devastar cualquier objetivo. Perfectas para cuando necesitas un poder de fuego extremo.",
+        "descripcion": "Cohetes diseñados con tecnología avanzada de propulsión y carga explosiva, capaces de generar una onda expansiva de gran alcance. Ideales para destruir vehículos y estructuras fortificadas.",
+        "categoria": {
+            "id": "armas"
+        }
+    },
+    {
+        "id": 61,
+        "nombre": "Municion: Hand Cannon",
+        "precio": 15,
+        "logo":"https://cdn.discordapp.com/attachments/1245545691087114322/1249249890811514942/canon-de-mano_ammo.png?ex=666746df&is=6665f55f&hm=ce9c66f2f54c867b4b6c9abf4f550c1eb1e16ad03ced86d39aa881fbacfd63d3&",
+        "imagen":"https://cdn.discordapp.com/attachments/1245545691087114322/1245586598066651166/canon-de-mano.png?ex=666873aa&is=6667222a&hm=043b9d51947e7d33c3fa455c458daa8ca1cea1a896dd9ceb877b265e2752bc33&",
+        "promocion": "¡Potencia descomunal al alcance de tu mano! Las Cajas de Municiones para Revólver ofrecen 4 balas de alto impacto que garantizan detener a cualquier adversario. Ideales para enfrentamientos donde cada disparo cuenta.",
+        "descripcion": "Desarrolladas con un calibre .45 ACP, nuestras municiones para revólver están diseñadas para proporcionar una energía de impacto superior. La tecnología de plásmidos asegura una combustión uniforme, maximizando la velocidad de salida y la precisión.",
         "categoria": {
             "id": "armas"
         }

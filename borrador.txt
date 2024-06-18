@@ -47,46 +47,15 @@ const menuSeleccion = 'seleccion';
 
 
 
- 
-
-
-
-
-
- 
-    {
-        "id": "prenda-1",
-        "nombre": "Prenda: Electric Touch",
-        "precio": 0.60,
-        "descripcion": "Aumenta el daño eléctrico en ataques cuerpo a cuerpo."
-    },
-    {
-        "id": "prenda-2",
-        "nombre": "Prenda: Ghost Soldier",
-        "precio": 0.70,
-        "descripcion": "Convierte enemigos derrotados en aliados fantasmas temporales."
-    },
-    {
-        "id": "prenda-3",
-        "nombre": "Prenda: Ammo Advantage",
-        "precio": 0.45,
-        "descripcion": "Incrementa la cantidad de munición encontrada."
-    },
-    {
-        "id": "prenda-4",
-        "nombre": "Prenda: Brittle-Skinned",
-        "precio": 0.50,
-        "descripcion": "Aumenta el daño recibido por enemigos mientras están en el aire."
-    },
-    {
-        "id": "prenda-5",
-        "nombre": "Prenda: Blood to Salt",
-        "precio": 0.65,
-        "descripcion": "Convierte parte del daño en recuperación de sales."
-    },
-    {
-        "id": "prenda-6",
-        "nombre": "Prenda: Head Master",
-        "precio": 0.55,
-        "descripcion": "Aumenta el daño por disparos a la cabeza."
+{
+        "id": ,
+        "nombre": "municion: ",
+        "precio": ,
+        "logo":"",
+        "imagen":"",
+        "promocion": ,
+        "descripcion": ,
+        "categoria": {
+            "id": "armas"
+        }
     }
